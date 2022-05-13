@@ -12,5 +12,5 @@ driving. Thus, this system is proposed to solve all these problems
 
 [![Cppcheck](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/Cppcheck.yml)
 
-Codiga - Static Analysis ![Quality](https://api.codiga.io/project/33372/status/svg)
+Codiga - ![Quality](https://api.codiga.io/project/33372/status/svg)
 
