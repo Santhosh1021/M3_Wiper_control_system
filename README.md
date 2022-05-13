@@ -6,4 +6,5 @@ arm holding the blade, a spring linkage, and parts of the wiper pivots.Existing 
 handled. The driver needs to switch on and off the control stalk and it will reduce the driver’s concentration during the
 driving. Thus, this system is proposed to solve all these problems
 # GRADES 
-# Codiga:https://api.codiga.io/project/33372/status/svg
+# Codiga:
+https://api.codiga.io/project/33372/status/svg
