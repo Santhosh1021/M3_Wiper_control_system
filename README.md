@@ -5,10 +5,10 @@ window and the other on each headlight. The wiper parts visible from outside the
 arm holding the blade, a spring linkage, and parts of the wiper pivots.Existing system manually used control stalk to activate wiper and the process of pulling up wiper is difficult to be
 handled. The driver needs to switch on and off the control stalk and it will reduce the driver’s concentration during the
 driving. Thus, this system is proposed to solve all these problems
-# GRADES 
-# Codiga:
-
-
+# BATCHES
 [![Analysis](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/analysis.yml/badge.svg)](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/analysis.yml)
 
 [![Build-Linux](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/Build-Linux.yml)
+
+[![Cppcheck](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/Cppcheck.yml)
+
