@@ -7,4 +7,6 @@ handled. The driver needs to switch on and off the control stalk and it will red
 driving. Thus, this system is proposed to solve all these problems
 # GRADES 
 # Codiga:
-https://api.codiga.io/project/33372/status/svg
+
+
+[![Analysis](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/analysis.yml/badge.svg)](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/analysis.yml)
