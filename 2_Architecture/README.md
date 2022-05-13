@@ -1,5 +1,5 @@
 # Block Diagram
-![image](https://user-images.githubusercontent.com/101259618/168269071-71540ec3-46fa-49bc-90bc-1447e3757190.png)
+![image](https://user-images.githubusercontent.com/101259618/168269444-8e48aadd-b71c-48a2-ba80-98d3e8fc8700.png)
 
 
 # Flow Chart
