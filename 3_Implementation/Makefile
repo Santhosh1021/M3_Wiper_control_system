@@ -3,7 +3,7 @@ CC =arm-none-eabi-gcc
 MACH=cortex-m4
 
 CFLAGS =-c -mcpu=$(MACH) -mthumb -std=gnu11 -Wall -O0 
-LDFLAGS= -nostdlib -T stm32_ls.ld
+LDFLAGS= -nostdlib -T linkerscript_stm32.ld
 
 all:clean main.o driver.o stm32_startup.o main.elf run
 
