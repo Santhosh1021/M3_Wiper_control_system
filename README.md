@@ -12,5 +12,5 @@ driving. Thus, this system is proposed to solve all these problems
 
 [![Cppcheck](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/Cppcheck.yml)
 
-Codiga - ![Quality](https://api.codiga.io/project/33372/status/svg)
-
+Codiga-![Quality](https://api.codiga.io/project/33372/status/svg)
+Codacy-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b41f1a3b579a47a9998c2d944f165b6e)](https://www.codacy.com/gh/Santhosh1021/M3_Wiper_control_system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Santhosh1021/M3_Wiper_control_system&amp;utm_campaign=Badge_Grade)
