@@ -29,13 +29,14 @@ Ignition Key Position at Lock: The Red LED is OFF, if the user button is pressed
 - Easy handle and usage of features through a simple User Button.
 - Cost efficient.
 ### Weakness:
-- Limited usage Range.
-- Less User privacy and security.
+- Limited usage.
+- Anyone can access it.
 - Timers/Interrupts can be a better approach instead using Delays.
 ### Opportunity:
-- Wide Scope in the Future of Automobiles Viper Managemnet and Control System.
+- Wide Scope in the Future of Car Viper Managemnet and Control System.
 - Cost efficient.
 - Since advanced features can increase Car value.
+- Automatically run with any manual presence
 ### Threat:
 - Now there are many new developing devices for competition in the Automobiles advancement sector.
 
@@ -53,12 +54,12 @@ Ignition Key Position at Lock: The Red LED is OFF, if the user button is pressed
 
 | ID | Low Level Requirements for HL1|      
 | -------- | -------------- | 
-| LLR1.1 | According to the press of __Button__ for 2 seconds, Ignition LED_RED shall be on | 
-| LLR1.2 | According to the press of __Button__ for 2 seconds, Ignition LED_RED shall be off | 
+| LLR1.1 | Press __Button__ for 2 seconds, Ignition LED_RED shall be on | 
+| LLR1.2 | Press __Button__ for 2 seconds, Ignition LED_RED shall be off | 
      
 | ID | Low Level Requirements for HL2| 
 | -------- | -------------- | 
-| LLR2.1 | According to the press of __Button__ all LED's shall be on in alternate fashion in Frequency(1Hz) indicating Viper movement |
-| LLR2.2 | According to the press of __Button__ all LED's shall be on in alternate fashion in Frequency(4Hz) indicating Viper movement |
-| LLR2.3 | According to the press of __Button__ all LED's shall be on in alternate fashion in Frequency(4Hz) indicating Viper movement |
+| LLR2.1 | press  __Button__ all LED's shall be on in alternate fashion in Frequency(1Hz) indicating Viper movement |
+| LLR2.2 | press  __Button__ all LED's shall be on in alternate fashion in Frequency(4Hz) indicating Viper movement |
+| LLR2.3 | press  __Button__ all LED's shall be on in alternate fashion in Frequency(4Hz) indicating Viper movement |
 
