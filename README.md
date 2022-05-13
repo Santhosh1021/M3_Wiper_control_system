@@ -6,6 +6,7 @@ arm holding the blade, a spring linkage, and parts of the wiper pivots.Existing 
 handled. The driver needs to switch on and off the control stalk and it will reduce the driver’s concentration during the
 driving. Thus, this system is proposed to solve all these problems
 # BADGES
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8baa8465512048c09b7d3ae58e97503e)](https://app.codacy.com/gh/Santhosh1021/M3_Wiper_control_system?utm_source=github.com&utm_medium=referral&utm_content=Santhosh1021/M3_Wiper_control_system&utm_campaign=Badge_Grade_Settings)
 [![Analysis](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/analysis.yml/badge.svg)](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/analysis.yml)
 
 [![Build-Linux](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/Build-Linux.yml)
