@@ -11,6 +11,6 @@ driving. Thus, this system is proposed to solve all these problems
 [![Build-Linux](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/Build-Linux.yml)
 
 [![Cppcheck](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/Santhosh1021/M3_Wiper_control_system/actions/workflows/Cppcheck.yml)
-
+# GRADES
 Codiga-![Quality](https://api.codiga.io/project/33372/status/svg)
 Codacy-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b41f1a3b579a47a9998c2d944f165b6e)](https://www.codacy.com/gh/Santhosh1021/M3_Wiper_control_system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Santhosh1021/M3_Wiper_control_system&amp;utm_campaign=Badge_Grade)
