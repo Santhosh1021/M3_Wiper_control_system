@@ -48,8 +48,8 @@ Ignition Key Position at Lock: The Red LED is OFF, if the user button is pressed
 - Now there are many new developing devices for competition in the Automobiles advancement sector.
 
 
-# 2 REQUIREMENTS:
-## 2.1 High Level Requirements
+#  REQUIREMENTS:
+##  High Level Requirements
 | ID | High Level Requirements |
 | -------- | -------------- |
 | HLR1 | System shall display Ignition status of the car |
@@ -57,7 +57,7 @@ Ignition Key Position at Lock: The Red LED is OFF, if the user button is pressed
 | HLR3 | System shall display Viper State-2  of the car |
 | HLR4 | System shall display Viper State-3  of the car |
 
-## 2.2 Low Level Requirements
+##  Low Level Requirements
 
 | ID | Low Level Requirements for HL1|      
 | -------- | -------------- | 
@@ -69,6 +69,21 @@ Ignition Key Position at Lock: The Red LED is OFF, if the user button is pressed
 | LLR2.1 | press  __Button__ all LED's shall be on in alternate fashion in Frequency(1Hz) indicating Viper movement |
 | LLR2.2 | press  __Button__ all LED's shall be on in alternate fashion in Frequency(4Hz) indicating Viper movement |
 | LLR2.3 | press  __Button__ all LED's shall be on in alternate fashion in Frequency(4Hz) indicating Viper movement |
+
+
+# 2.1 FLOW CHART
+![image](https://user-images.githubusercontent.com/101259618/168324675-baa1b8cd-0631-4f00-b1cf-5d10792d52d8.png)
+
+# 2.2 BLOCK DIAGRAM
+![image](https://user-images.githubusercontent.com/101259618/168269444-8e48aadd-b71c-48a2-ba80-98d3e8fc8700.png)
+
+# 2.3 STRUCTURAL DIAGRAM
+![image](https://user-images.githubusercontent.com/101259618/168327022-0f0b6895-e1ee-41dc-8309-b6e7d5cb91b9.png)
+
+# 2.4 BEHAVIRAL DIAGRAM
+
+![image](https://user-images.githubusercontent.com/101259618/168431905-2b3a9577-4c7a-4722-83e1-3231e2e2f38f.png)
+
 #  HIGH LEVEL TEST PLAN
 
 | Test ID | Description | Input | Expected output | Actual Output | 
@@ -96,18 +111,3 @@ Ignition Key Position at Lock: The Red LED is OFF, if the user button is pressed
 | 03 | Check for Button_Count() | 3 User Button Presses | 3 | 3 | ✅ |
 
 ---
-
-# 2.1 FLOW CHART
-![image](https://user-images.githubusercontent.com/101259618/168324675-baa1b8cd-0631-4f00-b1cf-5d10792d52d8.png)
-
-# 2.2 BLOCK DIAGRAM
-![image](https://user-images.githubusercontent.com/101259618/168269444-8e48aadd-b71c-48a2-ba80-98d3e8fc8700.png)
-
-# 2.3 STRUCTURAL DIAGRAM
-![image](https://user-images.githubusercontent.com/101259618/168327022-0f0b6895-e1ee-41dc-8309-b6e7d5cb91b9.png)
-
-# 2.4 BEHAVIRAL DIAGRAM
-
-![image](https://user-images.githubusercontent.com/101259618/168431905-2b3a9577-4c7a-4722-83e1-3231e2e2f38f.png)
-
-
