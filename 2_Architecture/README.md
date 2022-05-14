@@ -9,3 +9,7 @@
 
 # 2.3 STRUCTURAL DIAGRAM
 ![image](https://user-images.githubusercontent.com/101259618/168327022-0f0b6895-e1ee-41dc-8309-b6e7d5cb91b9.png)
+
+# 2.4 BEHAVIRAL DIAGRAM
+
+![image](https://user-images.githubusercontent.com/101259618/168431905-2b3a9577-4c7a-4722-83e1-3231e2e2f38f.png)
