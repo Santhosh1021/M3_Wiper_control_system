@@ -48,8 +48,8 @@ Ignition Key Position at Lock: The Red LED is OFF, if the user button is pressed
 - Now there are many new developing devices for competition in the Automobiles advancement sector.
 
 
-# 2 REQUIREMENTS:
-## 2.1 High Level Requirements
+#  REQUIREMENTS:
+##  High Level Requirements
 | ID | High Level Requirements |
 | -------- | -------------- |
 | HLR1 | System shall display Ignition status of the car |
@@ -57,7 +57,7 @@ Ignition Key Position at Lock: The Red LED is OFF, if the user button is pressed
 | HLR3 | System shall display Viper State-2  of the car |
 | HLR4 | System shall display Viper State-3  of the car |
 
-## 2.2 Low Level Requirements
+##  Low Level Requirements
 
 | ID | Low Level Requirements for HL1|      
 | -------- | -------------- | 
